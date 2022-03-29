@@ -323,7 +323,7 @@ a.button-normal.with-icon-left .icon {
   margin-right: 10px;
   padding: 10px 10px;
   background-color: #2d5c32;
-  color: #ffffff;
+  color: #000000;
   font-size: 24px;
 }
 
@@ -412,7 +412,7 @@ a.button-normal.with-icon-left .icon {
   font-size: 15px;
   font-weight: 700;
   padding: 18px 15px;
-  color: #ffffff;
+  color: #000000;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   -webkit-transition: opacity 0.25s ease-out;
@@ -576,7 +576,7 @@ ul.slide-menu-items li {
 
 ul.slide-menu-items li a {
   text-transform: uppercase;
-  color: #ffffff;
+  color: #000000;
   font-size: 15px;
   display: inline-block;
   padding: 5px 15px;
@@ -605,7 +605,7 @@ ul.slide-menu-items li.has-sub:after {
   position: absolute;
   right: 15px;
   top: 2px;
-  color: #ffffff;
+  color: #000000;
   font-size: 20px;
 }
 
@@ -777,7 +777,7 @@ ul.slide-menu-items li.has-sub > ul {
 
 .right-section .quote-link a {
   height: 50px;
-  color: #ffffff;
+  color: #000000;
   padding: 12px 30px;
   display: inline-block;
   background-color: #2d5c32;
@@ -811,7 +811,7 @@ ul.slide-menu-items li.has-sub > ul {
 }
 
 .bg-color {
-  background-color: #c0c0c0;
+  background-color: #696b6a;
 }
 
 .section-title h2 {
@@ -835,11 +835,11 @@ ul.slide-menu-items li.has-sub > ul {
 }
 
 .with-bg .section-title h2 {
-  color: #ffffff;
+  color: #000000;
 }
 
 .with-bg .section-title h2:after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 h3.title {
@@ -922,7 +922,7 @@ h4.title {
 }
 
 .home-slider .caption-wrap h1 {
-  color: #ffffff;
+  color: #000000;
   text-transform: uppercase;
 }
 
@@ -933,7 +933,7 @@ h4.title {
 
 .home-slider .caption-wrap h1:after {
   content: "";
-  background-color: #ffffff;
+  background-color: #000000;
   width: 100px;
   height: 4px;
   margin-top: 25px;
@@ -979,10 +979,10 @@ h4.title {
 /* Services */
 
 .services {
-  background-image: url(../img/content/Service_Truck.jpg);
+  background-image: url(../img/content/whyChooseUs3.jpg);
   background-size: cover;
   background-position: center center;
-  padding-bottom: 90px;
+  padding-bottom: 100px;
   display: inline-block;
   width: 100%;
 }
@@ -1143,7 +1143,7 @@ h4.title {
 /* Features */
 
 .features.wrapper {
-  background-image: url(../img/content/whyChooseUs3.jpg);
+  background-image: url(../img/content/whyChooseUs5.jpg);
   background-size: cover;
   background-position: center center;
   padding: 100px 0 60px 0;
