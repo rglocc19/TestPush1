@@ -1258,7 +1258,7 @@ h4.title {
 /* Testimonial */
 
 .testimonial {
-  background-image: url(../img/content/freightBoat_testimonials1.jpg);
+  background-image: url(../img/content/Service_Truck.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -1275,7 +1275,7 @@ h4.title {
 }
 
 .testimonial-item p {
-  color: #000000;
+  color: #ffffff;
   font-size: 22px;
   font-weight: 500;
   font-style: italic;
@@ -1307,7 +1307,7 @@ h4.title {
 
 .testimonial-item .client-info .client-details p {
   font-size: 16px;
-  color: #333333;
+  color: #ffffff;
   font-style: normal;
   font-weight: 400;
   margin: 0;
@@ -1498,7 +1498,7 @@ h4.title {
 }
 
 .company-slider .flex-control-paging li a {
-  background: #ffffff;
+  background: #696b6a;
 }
 
 .company-slider .flex-control-paging li a.flex-active {
@@ -1603,7 +1603,7 @@ h4.title {
   top: 0px;
   right: 0px;
   bottom: 0px;
-  background: rgba(11, 96, 169, 0.8) url(../img/plus.svg) no-repeat;
+  background: #2d5c32 url(../img/plus.svg) no-repeat;
   background-position: center center;
   background-size: 30px;
   display: -webkit-flex;
